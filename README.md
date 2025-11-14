@@ -25,3 +25,4 @@ VS Code plugin for prettier/prettier
 All credits goes to original authors of the above mentioned extensions.
 
 **Happy Coding!**
+
